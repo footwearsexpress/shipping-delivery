@@ -13,10 +13,10 @@ PRODUCTS AND ORDERS
 <br/>
 <br>
 09:00 - 18:00 
-</br>
+<br/>
 <br>
 Monday - Saturday
-</br>
+<br/>
 </p>
 <br>
 <img alt="PRODUCTS AND ORDERS" src="https://i.postimg.cc/9ffg6y6Z/phone.png" class="css-1fimrv7">
