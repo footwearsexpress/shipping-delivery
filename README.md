@@ -5,6 +5,13 @@ Your Order Delivery In (5-20 Days)
 <br>
 • Please note that we are working to enable deliveries to the Azores and Madeira.
 ### CONTACT US
+<p>
+<img src="https://i.postimg.cc/9ffg6y6Z/phone.png" alt="Smiley face" style="float:left;width:42px;height:42px;">
+A paragraph with a floating image. 
+A paragraph with a floating image. 
+A paragraph with a floating image.  
+</p>
+
 
 <img alt="PRODUCTS AND ORDERS" src="https://i.postimg.cc/9ffg6y6Z/phone.png" class="css-1fimrv7">
 <br>
