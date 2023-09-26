@@ -12,8 +12,8 @@ PRODUCTS AND ORDERS
 +351 918322018 
 09:00 - 18:00 
 Monday - Saturday
-<br/>
 </p>
+
 <br>
 <img alt="PRODUCTS AND ORDERS" src="https://i.postimg.cc/9ffg6y6Z/phone.png" class="css-1fimrv7">
 <br>
