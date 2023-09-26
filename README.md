@@ -7,10 +7,7 @@ Your Order Delivery In (5-20 Days)
 ### CONTACT US
 <p>
 <img src="https://i.postimg.cc/9ffg6y6Z/phone.png" alt="Smiley face" style="float:left;width:64px;height:64px;">
-PRODUCTS AND ORDERS
-+351 918322018
-09:00 - 18:00
-Monday - Saturday
+PRODUCTS AND ORDERS +351 918322018 09:00 - 18:00 Monday - Saturday
 </p>
 
 <img alt="PRODUCTS AND ORDERS" src="https://i.postimg.cc/9ffg6y6Z/phone.png" class="css-1fimrv7">
