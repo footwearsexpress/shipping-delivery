@@ -10,11 +10,7 @@ Your Order Delivery In (5-20 Days)
 PRODUCTS AND ORDERS
 <br>
 +351 918322018 
-<br/>
-<br>
 09:00 - 18:00 
-<br/>
-<br>
 Monday - Saturday
 <br/>
 </p>
