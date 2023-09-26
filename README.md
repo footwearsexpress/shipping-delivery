@@ -5,10 +5,11 @@ Your Order Delivery In (5-20 Days)
 <br>
 • Please note that we are working to enable deliveries to the Azores and Madeira.
 ### CONTACT US
-<p style="font-size:50%;"><br>
+<p style="float-center:50%;">
 <img src="https://i.postimg.cc/9ffg6y6Z/phone.png" alt="Phone" style="float:left;width:64px;height:64px;">
 PRODUCTS AND ORDERS
 +351 918322018
 09:00 - 18:00 
 Monday - Saturday
-</p></br>
+</p>
+
