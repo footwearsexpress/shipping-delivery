@@ -5,6 +5,7 @@ Your Order Delivery In (5-20 Days)
 <li>Standard delivery may take longer to remote locations.</li>
 <li>Please note that we are working to enable deliveries to the Azores and Madeira.</li>
 </ul>
+
 ### CONTACT US
 <p style="font-size:50%;">
 <img src="https://i.postimg.cc/9ffg6y6Z/phone.png" alt="Phone" style="float:left;width:64px;height:64px;">
