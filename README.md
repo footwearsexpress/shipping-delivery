@@ -7,7 +7,7 @@ Your Order Delivery In (5-20 Days)
 </ul>
 
 ### Important Warning
-Shipping costs are subject to change due to location.
+Shipping costs are subject to change due to locations.
 
 #### CONTACT US
 <p style="font-size:50%;">
