@@ -1,4 +1,5 @@
-  text-align: right;
+<style>
+text-align: right;
 }
 
 /* Clear floats after the columns */
@@ -33,3 +34,4 @@
     display: none;
   }
 }
+</style>
