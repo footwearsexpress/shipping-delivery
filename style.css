@@ -1,12 +1,10 @@
 .checked {
   color: orange;
 }
-
 .h2 {
   font-family: arial; 
 }
-
-  footer {
+.footer {
    font-family: arial; black;
    position: fixed;
    left: 0;
