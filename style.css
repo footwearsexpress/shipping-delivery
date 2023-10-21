@@ -1,5 +1,12 @@
 .h1 {
-  font-family: arial; black;
+   font-family: arial; black;
+}
+.synopse {
+    background-color: #FF69B4;
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px
 }
 .footer {
    font-family: arial; black;
