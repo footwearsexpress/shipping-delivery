@@ -2,18 +2,6 @@ body {
   background-color: blue;
 }
 
-.h1 {
+h1 {
    font-family: arial; 
-   
 }
-.footer {
-   font-family: arial; courier;
-   position: fixed;
-   left: 0;
-   bottom: 0;
-   width: 100%;
-   background-color: #000000;
-   color: white;
-   text-align: center;
-}
- }
