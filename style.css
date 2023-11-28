@@ -1,9 +1,9 @@
 body {
-  background-color: red;
+  background-color: white;
 }
 
 .h1 {
-   font-family: arial; black;
+   font-family: arial; 
    
 }
 .footer {
@@ -16,3 +16,4 @@ body {
    color: white;
    text-align: center;
 }
+ }
