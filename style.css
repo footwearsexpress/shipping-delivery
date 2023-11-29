@@ -2,9 +2,8 @@ body {
   background-color: white;
 }
 
-.heading { 
+.heading-1 { 
    border-bottom-style: solid;
    border-bottom-color: #92a8d1;
-   border-bottom: center;
    font-size: 12px;
 }
