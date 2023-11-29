@@ -4,4 +4,5 @@ body {
 
 h1 {
    font-family: arial; 
+   border-bottom: solid; #92a8d1;
 }
