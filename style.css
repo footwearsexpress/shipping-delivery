@@ -2,6 +2,10 @@ body {
   background-color: white;
 }
 
+ul {
+  list-style-type: decimal-leading-zero;}
+}
+
 .footer {
     position: fixed;
     background-color: white;
