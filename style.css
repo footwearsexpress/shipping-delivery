@@ -16,7 +16,17 @@ li {
 
 li a {
   display: block;
-  padding: 8px;
+  padding: 14px; 16px;
+  color: white;
+  text-align: center;
+  text-decoration: none;  
+}
+
+/* Change the link color #111 */
+}
+
+li a:hover {
+  background-color: #111;  
 }
 
 .footer {
