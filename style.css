@@ -21,13 +21,12 @@ li a {
 
 .footer {
     position: fixed;
-    background-color: white;
-    color: black;
+    background-color: black;
+    color: #fff;
     text-align: center;
     width: 100%;
     left: 0;
     bottom: 0;
     font-size: .79rem;
-    border-top: 1px solid black;
 }
  }
