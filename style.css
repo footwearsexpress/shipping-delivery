@@ -2,20 +2,12 @@
   box-sizing: border-box;
 }
 
-body {
-  background-color: white;
+.row {
+    display: flex;
 }
 
 .column {
-  float: left;
-  width: 50px;
-  padding: 10px;
-  height: 300px;
+    flex: 50%;
+    height: 300px;
+    padding: 15px;
 }
-
-.row:after {
-  content: "";
-  display: table; 
-  clear: both;
-}
-  
