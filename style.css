@@ -16,6 +16,9 @@ ul.a {
     list-style-position: outside;
 }
 
+ul.a {
+  list-style-position: outside;
+
 .fa {
     font-size: 50px;
     cursor: pointer;
