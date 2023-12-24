@@ -12,11 +12,11 @@
     padding: 50px;
 }
 
-ul.a {
+ul.b {
     list-style-position: outside;
 }
 
-ul.b {
+ul.a {
   list-style-position: outside;
 }
 
